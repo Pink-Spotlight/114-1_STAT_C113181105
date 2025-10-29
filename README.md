@@ -3,3 +3,4 @@
 ## Leader's Name:陳芊昀
 ## SID:C113181105
 ## Name:張士宏
+## URL:https://github.com/Pink-Spotlight/114-1_STAT_C113181105/edit/main/README.md
